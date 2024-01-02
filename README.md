@@ -15,8 +15,6 @@ Hello! I'm Nisarg, a third-year software engineering student at Ontario Tech Uni
 - **Cloud Services**: AWS, Azure, GCloud
 - **Data Analysis**: Python, Excel 📊
 
-### Achievements 🏆
-- Dean’s Honors List: 2021 & 2022
 
 ### Contact 📫
 - Email: [nisargbharucha@gmail.com](mailto:nisargbharucha@gmail.com)
